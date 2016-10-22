@@ -1,14 +1,12 @@
-AngularJs-TodoApp
-=================
+Steps to install it
+====================
 
-Todo App written in AngularJS using best practices
+1 - git clone
+2 - npm install
+3 - bower install
+4 - npm install -g grunt-cli
+5 - grunt serve
 
+=======================
 
-Demo
-====
-Visit this link for the Demo - http://rohitghatol.github.io/AngularJs-TodoApp/
-
-
-Screenshot
-=====
-![alt tag](https://raw.githubusercontent.com/rohitghatol/AngularJs-TodoApp/master/Todo-App.png)
+Wep app will start running in the localhost
